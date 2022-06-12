@@ -1,0 +1,17 @@
+case/ML method/window size/depo time implementation/cross validation MSE
+case F3/lasso/0/False/-0.002389426539608607
+case F3/KNN/0/False/-0.00223223022866544
+case F3/Random Forest/0/False/-0.002259408121307892
+case F3/Neural Net/0/False/0.0022962477523833513
+case F3/lasso/0/True/-0.002156836195452791
+case F3/KNN/0/True/-0.0008063532543351647
+case F3/Random Forest/0/True/-0.0005085627135986441
+case F3/Neural Net/0/True/0.0015305314911529422
+case F3/lasso/10/False/-0.00337576962454331
+case F3/KNN/10/False/-0.0019258171819251193
+case F3/Random Forest/10/False/-0.001375245569304497
+case F3/Neural Net/10/False/0.0026688679354265332
+case F3/lasso/10/True/-0.003350415135511763
+case F3/KNN/10/True/-0.0016361389169859517
+case F3/Random Forest/10/True/-0.0007473179814843473
+case F3/Neural Net/10/True/0.0025555819855071606

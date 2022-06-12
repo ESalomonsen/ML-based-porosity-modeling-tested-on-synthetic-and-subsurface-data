@@ -1,0 +1,2 @@
+case/MAE/MSE/R-squared/abs error std
+case 3b fault/0.022716539/0.0014438762/0.21038177246828016/0.030460387

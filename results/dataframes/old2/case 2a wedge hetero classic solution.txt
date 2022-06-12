@@ -1,0 +1,2 @@
+case/MAE/MSE/R-squared/abs error std
+case 2a wedge hetero/0.023255687/0.0009718338/0.4772085896220719/0.020760704
